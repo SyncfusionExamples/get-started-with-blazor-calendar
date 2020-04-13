@@ -1,0 +1,16 @@
+﻿@page "/"
+
+<SfCalendar TValue="DateTime?" Value="@DateValue"
+            Min="@StartDate"
+            Max="@EndDate"
+            IsMultiSelection="true"
+            Start="@CalendarView.Decade"
+            Depth="@CalendarView.Year"></SfCalendar>
+
+@code{
+    public DateTime DateValue { get; set; } = new DateTime(2020, 03, 20);
+
+    public DateTime StartDate { get; set; } = new DateTime(2020, 03, 10);
+
+    public DateTime EndDate { get; set; } = new DateTime(2020, 03, 22);
+}
