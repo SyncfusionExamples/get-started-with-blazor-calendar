@@ -37,7 +37,7 @@ namespace MyBlazorProject
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             Syncfusion.Licensing.SyncfusionLicenseProvider
-                .RegisterLicense("MjI2NzM5QDMxMzgyZTMxMmUzMEhSaTdjcmcyUDlhOWk5VHdsRU55N2xHQWtDNjAyd3NTVis0VHQ4dVlDY1E9");
+                .RegisterLicense("Add your valid license");
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
