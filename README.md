@@ -1,0 +1,2 @@
+# get-started-with-blazor-calendar
+A quick-start blazor project that lets you to get start with the Blazor Calendar component of Syncfusion and contains code snippets used to view and select dates. In this project, few of its important features are enabled like setting specific date range values to the calendar, multi-date selection, and navigation between different calendar views such as month, year and decade.
