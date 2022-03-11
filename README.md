@@ -1,7 +1,6 @@
 # Getting started with the Blazor Calendar Component
 
-The [Blazor calendar](https://www.syncfusion.com/blazor-components/blazor-calendar?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)is a component to display the date and days of the week. 
-A quick-start blazor project that lets you to get start with the Blazor Calendar component of Syncfusion and contains code snippets used to view and select dates. In this project, few of its important features are enabled like setting specific date range values to the calendar, multi-date selection, and navigation between different calendar views such as month, year and decade. 
+The [Blazor calendar](https://www.syncfusion.com/blazor-components/blazor-calendar?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)is a component to display the date and days of the week. A quick-start blazor project that lets you to get start with the Blazor Calendar component of Syncfusion and contains code snippets used to view and select dates. In this project, few of its important features are enabled like setting specific date range values to the calendar, multi-date selection, and navigation between different calendar views such as month, year and decade. 
 
 ## Project prerequisites
 
