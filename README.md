@@ -61,7 +61,7 @@ You can restrict the Blazor Calendar component so that only a date value within 
 
 
 ## About Syncfusion Blazor Components
-The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Calendar, we provide popular Blazor Components such as DataGrid,Charts, Scheduler, Diagram, Word Processor, and more.
+The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Calendar, we provide popular Blazor Components such as DataGrid, Charts, Scheduler, Diagram, Word Processor, and more.
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 27,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
