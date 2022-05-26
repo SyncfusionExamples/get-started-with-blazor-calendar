@@ -49,11 +49,13 @@ You can restrict the Blazor Calendar component so that only a date value within 
 
 [Documentation](https://blazor.syncfusion.com/documentation/calendar/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)
 
-[Online example](https://blazor.syncfusion.com/demos/calendar/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)
+[View Demo](https://github.com/SyncfusionExamples/get-started-with-blazor-calendar?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)
+
+[Online example](https://blazor.syncfusion.com/demos/calendar/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)
 
 [Video Tutorials](https://www.syncfusion.com/tutorial-videos/blazor/calendar?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)
 
