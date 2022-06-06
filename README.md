@@ -22,7 +22,7 @@ In addition to the Gregorian calendar, the Blazor Calendar component supports di
 
 ### Multiple date selection
 
-Configure the Blazor Calendar to allow users to select single or multiple date values (sequence or random date selection).
+Configure the Blazor Calendar to allow users to select single or [multiple](https://blazor.syncfusion.com/documentation/calendar/multi-select?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples) date values (sequence or random date selection).
 
 ### Disabled dates
 
@@ -30,7 +30,7 @@ Disable any date in the Blazor Calendar to make it inactive. Easily prevent the 
 
 ### Custom calendar
 
-Apart from the standard, built-in theme, the Blazor Calendar component provides complete control over its appearance, allowing you to customize the style to suit your application.
+Apart from the standard, built-in theme, the Blazor Calendar component provides complete control over its appearance, allowing you to customize the [style](https://blazor.syncfusion.com/documentation/calendar/style-appearance?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples) to suit your application.
 
 ### Multi-language calendar
 
@@ -38,7 +38,7 @@ Update the culture-specific date format and first day of the week, and translate
 
 ### Date selection within a date range
 
-You can restrict the Blazor Calendar component so that only a date value within a specific range of dates can be entered or selected by specifying the minimum and maximum date options.
+You can restrict the Blazor Calendar component so that only a [date](https://blazor.syncfusion.com/documentation/calendar/date-range?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples) value within a specific range of dates can be entered or selected by specifying the minimum and maximum date options.
 
 ## Related links
 [Learn More about Blazor Calendar](https://www.syncfusion.com/blazor-components/blazor-calendar?utm_source=github&utm_medium=listing&utm_campaign=blazor-calendars-github-samples)
