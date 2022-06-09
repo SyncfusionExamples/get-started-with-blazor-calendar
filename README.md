@@ -18,7 +18,7 @@ The web [accessibility](https://blazor.syncfusion.com/documentation/calendar/acc
 
 ### Islamic Calendar
 
-In addition to the Gregorian calendar, the Blazor Calendar component supports displaying the Islamic calendar (Hijri calendar).
+In addition to the Gregorian calendar, the Blazor Calendar component supports displaying the [Islamic calendar](https://blazor.syncfusion.com/documentation/calendar/islamic-calendar) (Hijri calendar).
 
 ### Multiple date selection
 
